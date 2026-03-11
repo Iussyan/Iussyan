@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Julius K. Silvano Jr. 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70" />
+</p>
 
 <!--
 **Iussyan/Iussyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
