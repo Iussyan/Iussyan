@@ -6,12 +6,6 @@
     <strong>BS Information Technology Student | Specialized in Software Engineering & Modern Web Architectures</strong><br>
     <em>Passionate about games, health-tech, and building scalable digital solutions.</em>
   </p>
-  
-  <a href="https://linkedin.com/in/silvano-julius-jr-k-570947353" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-  <a href="mailto:silvano.julius.kadusale@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  <a href="https://www.facebook.com/iussyan" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
-  <a href="https://www.instagram.com/iuss.yan" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-  <a href="tel:+639944902128" target="_blank"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=00BFFF"/></a>
 </div>
 
 <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #00BFFF, transparent);" />
@@ -69,6 +63,16 @@
 
 ### 🐍 Contribution Activity
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+
+## 🌐 Socials (Contact Me)
+
+<div align="left">
+<a href="https://linkedin.com/in/silvano-julius-jr-k-570947353"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+  <a href="mailto:silvano.julius.kadusale@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
+  <a href="https://www.facebook.com/iussyan"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/iuss.yan"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="tel:+639944902128"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
+</div>
 
 ---
 
