@@ -71,7 +71,7 @@
   <a href="mailto:silvano.julius.kadusale@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
   <a href="https://www.facebook.com/iussyan"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
   <a href="https://www.instagram.com/iuss.yan"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <a href="tel:+639944902128"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
+  <a href="tel:+639944902128"><img src="https://img.shields.io/badge/+639944902128-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
 </div>
 
 ---
