@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;React+%2F+Next.js+Specialist;Lead+Developer+@+LUNA+App;Team+SEEGLA+Collaborator" alt="Typing SVG" />
 
   <p>
-    <strong>BS Information Technology Student | Specialized in Software Engineering & Modern Web Architectures</strong><br>
+    <strong>3rd Year BS Information Technology Student | Specialized in Software Engineering & Modern Web Architectures</strong><br>
     <em>Passionate about games, health-tech, and building scalable digital solutions.</em>
   </p>
 </div>
@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Technical Toolbox
+## 💻 Technical Skillset
 
 <div align="left">
 
