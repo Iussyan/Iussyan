@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart)](https://skillicons.dev)
 
 ### ⚙️ Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,cpp,cs,python,mysql,postgres,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,dotnet,cpp,cs,python,mysql,postgres,supabase)](https://skillicons.dev)
 
 ### 🛠️ Ecosystem
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,unity,ps,postman,vercel)](https://skillicons.dev)
