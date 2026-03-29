@@ -67,6 +67,7 @@
 ## 🌐 Socials (Contact Me)
 
 <div align="left">
+  <a href="https://iussyan-tech.vercel.app"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=0077B5" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/silvano-julius-jr-k-570947353"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
   <a href="mailto:silvano.julius.kadusale@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
   <a href="https://www.facebook.com/iussyan"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
