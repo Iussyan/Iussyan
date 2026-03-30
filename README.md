@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>JULIUS K. SILVANO JR.</code></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2F+Next.js+Specialist;Lead+Developer+@+LUNA+App;Team+SEEGLA+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%2F+Next.js+Specialist;Lead+Developer+@+LUNA+App;SEEGLA+Technical+Lead" alt="Typing SVG" />
 
   <p>
     <strong>3rd Year BS Information Technology Student | Specialized in Software Engineering & Modern Web Architectures</strong><br>
@@ -11,7 +11,7 @@
 <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #00BFFF, transparent);" />
 
 ## 🪐 Current Project Focus
-- 🚀 **SEEGLA:** Spearheading the frontend architecture for our developer collective by building modular, high-performance web interfaces with React and Next.js.
+- 🚀 **SEEGLA:** Spearheading the software architecture by building modular, high-performance web interfaces with React and Next.js.
 - 📱 **LUNA:** Architecting a specialized health-tech mobile application using Flutter to provide secure and intuitive menstrual health tracking for users.
 - 🧪 **Research:** Exploring the intersection of Machine Learning and personal health informatics to develop predictive models that turn raw data into actionable insights.
 - 🎨 **Digital Laboratory:** Fusing logic and creativity through indie game development using Unity and Aseprite to create interactive and educational media experiences.
