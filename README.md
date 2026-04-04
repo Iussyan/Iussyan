@@ -8,7 +8,20 @@
   </p>
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #00BFFF, transparent);" />
+---
+
+## 🌐 Socials
+
+<div align="center">
+  <a href="https://iussyan-tech.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=0077B5" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/silvano-julius-jr-k-570947353"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+  <a href="mailto:silvano.julius.kadusale@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
+  <a href="https://www.facebook.com/iussyan"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/iuss.yan"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="tel:+639944902128"><img src="https://img.shields.io/badge/+639944902128-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
+</div>
+
+---
 
 <!-- ## 🪐 Current Project Focus
 - 🚀 **SEEGLA:** Spearheading the software architecture by building modular, high-performance web interfaces with React and Next.js.
@@ -52,28 +65,18 @@
 
 ## 📊 Performance Metrics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iussyan&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&bg_color=0D1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iussyan&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&bg_color=0D1117" height="170" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Iussyan&theme=radical&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF" width="100%" />
 </div>
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
+
+<div align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-
----
-
-## 🌐 Socials (Contact Me)
-
-<div align="left">
-  <a href="https://iussyan-tech.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=0077B5" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/silvano-julius-jr-k-570947353"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
-  <a href="mailto:silvano.julius.kadusale@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
-  <a href="https://www.facebook.com/iussyan"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/iuss.yan"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <a href="tel:+639944902128"><img src="https://img.shields.io/badge/+639944902128-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
 </div>
 
