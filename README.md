@@ -64,6 +64,8 @@
 ### 🐍 Contribution Activity
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 
+---
+
 ## 🌐 Socials (Contact Me)
 
 <div align="left">
@@ -75,4 +77,3 @@
   <a href="tel:+639944902128"><img src="https://img.shields.io/badge/+639944902128-000000?style=for-the-badge&logo=phone&logoColor=00BFFF" alt="Phone"/></a>
 </div>
 
----
