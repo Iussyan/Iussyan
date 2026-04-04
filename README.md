@@ -15,8 +15,8 @@
 - 📱 **LUNA:** Architecting a specialized health-tech mobile application using Flutter to provide secure and intuitive menstrual health tracking for users.
 - 🧪 **Research:** Exploring the intersection of Machine Learning and personal health informatics to develop predictive models that turn raw data into actionable insights.
 - 🎨 **Digital Laboratory:** Fusing logic and creativity through indie game development using Unity and Aseprite to create interactive and educational media experiences.
--->
----
+
+--- -->
 
 ## 💻 Technical Skillset
 
