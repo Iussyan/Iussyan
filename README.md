@@ -76,8 +76,3 @@
 </div>
 
 ---
-
-<div align="left">
-  🛠️ <strong>Designed by Julius Silvano</strong> <br/>
-  <sub>"Seek discomfort. Build better."</sub>
-</div>
